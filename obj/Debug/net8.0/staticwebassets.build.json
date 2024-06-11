@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6ZoPA6/7z5X3MwecJ7FOYvKT+RCwjQJ4dER/HvTthpI=",
+  "Source": "ESPG_SalesForecast_API",
+  "BasePath": "_content/ESPG_SalesForecast_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

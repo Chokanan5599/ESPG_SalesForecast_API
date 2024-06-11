@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ESPG_SalesForecast_API.props" />
+</Project>
